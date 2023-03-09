@@ -8,6 +8,9 @@ public class BelajarJava11 {
         addd(mhs);
         //sortt(mhs);
         printt(mhs);
+        printt(mhs);
+        printt(mhs);
+        printt(mhs);
     }
     public static void printt(ArrayList<Mahasiswa> mhs){
 
